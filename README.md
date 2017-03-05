@@ -1,2 +1,2 @@
 # C
-Progjetos em C
+Projetos em C
