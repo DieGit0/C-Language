@@ -1,3 +1,2 @@
 # CRUD - Car Registration
-This project implements a simple CRUD with reading, writing, searching, altering and deleting records using a text file.
-Some functions will still be improved later.
+This project implements a simple CRUD in C with reading, writing, searching, update and deleting records using a text file.
